@@ -102,30 +102,30 @@ Project 01 - Data Cleaning and Preprocessing/
 
 El proceso de limpieza y preprocesamiento de los datos se desarrolla siguiendo las siguientes etapas:
 
-   1. *Carga e inspección de los datos*📂
+   1. 📂*Carga e inspección de los datos*
       - Importación de los conjuntos de datos desde archivos CSV.
       - Verificación de la estructura, dimensiones y tipos de datos.
       - Identificación de las variables de interés para el desarrollo del proyecto.
         
-   2. *Análisis exploratorio de los datos (EDA)*🔍
+   2. 🔍*Análisis exploratorio de los datos (EDA)*
       - Obtención de estadísticas descriptivas.
       - Evaluación de la distribución de las variables.
       - Identificación de valores faltantes e inconsistencias.
       - Análisis preliminar de las variables empleadas en el proyecto.
         
-   3. *Integración de datos*🔗
+   3. 🔗*Integración de datos*
       - Incorporación del conjunto de datos de tasas de cambio EUR/USD.
       - Conversión de los importes financieros expresados en euros a dólares estadounidenses.
       - Homogeneización de las variables monetarias del conjunto de datos principal.
         
-   4. *Limpieza y preprocesamiento*🛠️
+   4. 🛠️*Limpieza y preprocesamiento*
       - Tratamiento e imputación de valores faltantes.
       - Corrección de inconsistencias en variables categóricas.
       - Transformación y recodificación de variables.
       - Adecuación de los tipos de datos cuando es necesario.
       - Generación de nuevas variables auxiliares para facilitar el análisis.
         
-   5. *Validación de los resultados*✔️
+   5. ✔️*Validación de los resultados*
       - Verificación de la consistencia del conjunto de datos procesado.
       - Comprobación de la integridad de las variables transformadas.
       - Obtención del conjunto de datos final preparado para su utilización en etapas posteriores de análisis y modelado.

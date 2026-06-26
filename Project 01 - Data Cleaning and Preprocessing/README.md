@@ -5,6 +5,7 @@
 Este proyecto forma parte del portafolio de análisis de datos y se enfoca en las etapas iniciales del flujo de trabajo de ciencia de datos: **exploración y preprocesamiento de información**.
 
 El objetivo principal es demostrar competencias en:
+- ✅ Carga de datos de archivos
 - ✅ Análisis exploratorio de datos (EDA)
 - ✅ Identificación y tratamiento de valores faltantes
 - ✅ Detección y manejo de outliers
@@ -27,19 +28,20 @@ Project 01 - Data Cleaning and Preprocessing/
 ## 📊 Datasets
 
 ### 1. **EUR-USD.csv**
-- Conjunto de datos de tasas de cambio histórico entre el Euro y el Dólar Estadounidense
-- Utilizado para análisis de series temporales y detección de anomalías
+- Conjunto de datos que recopila las tasas de cambio promedio mensuales entre el euro (EUR) y el dólar estadounidense (USD) durante el año 2015.
+- Su propósito es homogeneizar la información financiera del conjunto de datos, convirtiendo los importes de los préstamos y los pagos expresados en euros a dólares estadounidenses mediante la tasa de cambio correspondiente a cada mes.
+- Desde un punto de vista técnico, la incorporación de este conjunto de datos permite aplicar técnicas de integración de datos, al combinar información proveniente de diferentes fuentes para enriquecer el conjunto de datos principal.
 
 ### 2. **loan-data.csv**
 - Dataset de información de préstamos bancarios
-- Contiene información de clientes, montos, términos y estado de pagos
+- Contiene información de clientes, montos, términos, estado de pagos y demás información relevante
 - Ideal para práctica en limpieza de datos y preparación para análisis predictivo
 
 ---
 
 ## 🛠️ Tecnologías Utilizadas
 
-- **Python 3.x**
+- **Python 3.14**
 - **Pandas** - Manipulación y análisis de datos
 - **NumPy** - Operaciones numéricas
 - **Matplotlib / Seaborn** - Visualización de datos

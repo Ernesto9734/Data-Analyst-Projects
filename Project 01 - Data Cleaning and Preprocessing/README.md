@@ -27,6 +27,7 @@ Project 01 - Data Cleaning and Preprocessing/
 ├── README.md                    # Este archivo
 ├── EUR-USD.csv                  # Dataset de tasas de cambio EUR-USD
 └── loan-data.csv                # Dataset de datos de préstamos
+└── notebook.ipynb               # Archivo Notebook que contiene las instrucciones
 ```
 
 ---
@@ -136,12 +137,12 @@ El proceso de limpieza y preprocesamiento de los datos se desarrolla siguiendo l
 
 Al finalizar el proceso de limpieza y preprocesamiento se obtiene:
 
-📄 Un conjunto de datos con mayor nivel de integridad, consistencia y calidad, preparado para su utilización en etapas posteriores de análisis y modelado.
-🧹 Un tratamiento sistemático de valores faltantes, inconsistencias y variables que requerían transformación.
-🔗 Un conjunto de datos enriquecido mediante la integración de información externa correspondiente a las tasas de cambio EUR/USD.
-📊 Visualizaciones comparativas que evidencian el impacto de las técnicas de limpieza y preprocesamiento aplicadas.
-📚 Una documentación detallada que describe cada una de las etapas desarrolladas, favoreciendo la reproducibilidad y comprensión del proyecto.
-💡 Un análisis de la calidad inicial del conjunto de datos y de las mejoras obtenidas tras el proceso de preparación de los datos.
+* 📄 Un conjunto de datos con mayor nivel de **integridad, consistencia y calidad**, preparado para su utilización en etapas posteriores de análisis y modelado.
+* 🧹 Un tratamiento sistemático de **valores faltantes, inconsistencias y variables que requerían transformación**.
+* 🔗 Un conjunto de datos enriquecido mediante la **integración de información externa** correspondiente a las tasas de cambio EUR/USD.
+* 📊 **Visualizaciones comparativas** que evidencian el impacto de las técnicas de limpieza y preprocesamiento aplicadas.
+* 📚 Una **documentación detallada** que describe cada una de las etapas desarrolladas, favoreciendo la reproducibilidad y comprensión del proyecto.
+* 💡 Un **análisis de la calidad** inicial del conjunto de datos y de las mejoras obtenidas tras el proceso de preparación de los datos.
 
 ---
 
